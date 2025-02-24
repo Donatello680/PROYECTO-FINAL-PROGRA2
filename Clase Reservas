@@ -1,0 +1,4 @@
+public class Reserva {
+    private String idEmpleado;
+    private String tipoReserva;
+}
