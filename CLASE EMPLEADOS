@@ -2,3 +2,15 @@ public class Empleado {
     private String id;
     private String nombre;
 }
+
+//ENCAPSULADORES 
+
+
+public String getId() {
+        return id;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
